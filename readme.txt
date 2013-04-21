@@ -7,10 +7,3 @@ Data Structures Final Project
 
 Grid + Solver Dependencies: 
  - (None other than Java.util)
-
-Unit Test Dependencies:
- - JUnit
-
-Ui Dependencies:
- - lwjgl
- - slick
