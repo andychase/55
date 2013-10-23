@@ -1,4 +1,4 @@
-/* 55 - Andy Chase - Data Structures Final Project - Dr. Lin - April 19 2013 */  import java.util.*;
+/* 55 - Andy Chase - MIT LICENSE */  import java.util.*;
 public class Grid {
     public Integer[][] grid = new Integer[9][9];
     public Grid () { for(Integer[] row : grid) Arrays.fill(row, 0);}
