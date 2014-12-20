@@ -3,7 +3,7 @@
 Grid + Solver Dependencies: 
  - (None other than Java.util)
 
-## Licence
+## License
 The MIT License (MIT)
 
 Copyright (c) 2013 Andrew Chase
